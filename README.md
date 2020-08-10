@@ -6,9 +6,9 @@ The Pipeline is given Below
 
 1. Remove Stop words and covertion to lower case via re and NLTK stopwords
 2. Stemming Words via NLTK PorterStemmer
-3. Bag Of Words Algorithm  via Sckit CountVectorizer
-4. TF-IDF
-5. Multinomial Naive Bayes Classifier
+3. Bag Of Words Algorithm  via Sckit TfidfVectorizer
+4. Multinomial Naive Bayes Classifier
+5. Classification of new SMS with Predict_spam() function
 
 
 
