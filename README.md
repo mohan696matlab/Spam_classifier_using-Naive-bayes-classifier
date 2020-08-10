@@ -27,14 +27,10 @@ sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
 
 ## How to run
 Required Python Libraries
-2. pandas
-3. numpy
+
+1. pandas
+2. numpy
 3. sckit-learn
 4. nltk
 
-To run app:
-```
-	python app.py
-```
-Initializing classifier may take about half and hour due to large training dataset So wait patiently .
 
